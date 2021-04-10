@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
-title = "Example - CV"
+title = "samyev - CV"
 
 [params]
 colorDark = "#666"
