@@ -1,0 +1,15 @@
+baseURL = "https://samyev.netlify.com/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+theme = "almeida-cv"
+title = "Example - CV"
+
+[params]
+colorDark = "#666"
+colorLight = "#fff"
+colorPageBackground = "#ddd"
+colorPrimary = "#8c1aff"
+colorPrimaryText = "#fff"
+colorRightColumnBackground = "#D6C4F9"
+colorSecondary = "#aaa"
+pages = 1

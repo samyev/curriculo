@@ -1,0 +1,19 @@
+.certificacoes {
+  &__item {
+    @include avoid-break;
+    position: relative;
+    transition: transform 0.2s cubic-bezier($cubic);
+
+    &:hover {
+        transform: translateX(0.5rem);
+    }
+  }
+
+  &__title {
+    margin-bottom: 10px;
+  }
+
+  &__place {
+    color: $color-primary;
+  }
+}

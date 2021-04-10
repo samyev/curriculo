@@ -1,0 +1,110 @@
+BasicInfo:
+  FirstName: Samylle
+  LastName: Sales
+  Photo: img/me.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +88 9 9687 9311
+    - Icon: fas fa-envelope
+      Info: samsaleslima@gmail.com
+    - Icon: fas fa-globe
+      Info: samyev.me
+    - Icon: fas fa-map-marker-alt
+      Info: Brasil
+    - Icon: fa fa-cat
+      Info: github.com/samyev
+
+Profile: Sou uma desenvolvedora iniciante, curso engenharia da computação, no momento estou aprimorando minhas técnincas em linguagens full stack, e iniciando meus estudos em docker. Estou sempre a procura de aprender novas tecnologias, utilizo os sistema operacional linux, e adoro usurfruir de softwares open source.
+
+Experience:
+  - Employer: Prefeitura de Sobral
+    Place: Sobral, CE
+    Positions:
+      - Title: Técninca em redes de computadores
+        Date: Ago 2018 - Nov 2018
+        Details:
+          - Atuei como técnica em redes na bibliotca municipal  de Sobral,
+          - responsável por dar manutenção em computadores e sistemas
+        Badges: ['Linux', 'Windows']
+
+Education:
+  - Course: Engenharia da Computação
+    Place: Universidade Federal do Ceará
+    Date: Ago 2018 - Em Formação
+    Details: Com enfâse em ciência da computação
+  - Course: Técninca em redes de computadores de nível médio
+    Place: EEEP Dom Walfrido Teixeira Vieira
+    Date: Jan 2015 - Dez 2017
+    Details: Manutenção de computadores, servidores linux e windows, configuração de roteadores, etc.
+
+Certificacoes:
+  - Place: Instituto de Gestão e Tecnologia da Informação
+  - Course: Bootcamp-Desenvolvedor(a) Full Stack (2021)
+
+  - Place: balta.io
+  - Course: Criando APIs com Node (2021)
+  
+  - Place: Origamid
+  - Course: WordPress REST API (2021)
+  
+  - Place: Digital Inovation One
+  - Course: Programação para internet com JavaScript (2020)
+  
+  - Place: Digital Inovation One
+  - Course: Programação para internet com HTML5 e CSS3 (2020)
+
+  - Place: Digital Inovation One
+  - Course: Arquitetura de Sistemas Avançado(2020)
+
+  - Place: Digital Inovation One
+  - Course: Construindo páginas para internet com Bootstrap (2020)
+
+  - Place: Digital Inovation One
+  - Course: Introdução ao GitHub e comandos para trabalhar em equipe (2020)
+
+  - Place: Digital Inovation One
+  - Course: Introdução ao Git e Controle de Versões (2020)
+
+Skills:
+  - Family: Programação
+    Items:
+      - Python (Básico)
+      - HTML (Intermediário)
+      - Javascript (Básico)
+      - CSS (Básico)
+      - SQL (Básico)
+      - C (Básico)
+      - Java (Básico)
+      - Bash (Intermediário)
+      - ZSH (Intermediário)
+  - Family: Frameworks
+    Items:
+      - NodeJs (Básico)
+  - Family: Ferram. Desenvolvimento
+    Items:
+      - Git (Intermediário)
+      - Docker (Básico)
+      - AWS (Básico)
+  - Family: Diversos
+    Items:
+      - LaTeX
+  - Family: Sistemas Operacionais
+    Items:
+      - Linux
+      - Windows
+
+Languages:
+  - Name: Português
+    Level: Native
+  - Name: English
+    Level: Leitura
+  - Name: Spanish
+    Level: Leitura
+
+Interests:
+  - Dança
+  - Natureza
+  - Livros
+  - Animes
+  - Línguas
+  - Música

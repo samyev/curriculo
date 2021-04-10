@@ -1,0 +1,16 @@
+.education {
+    &__item {
+        @include avoid-break;
+        position: relative;
+        transition: transform 0.2s cubic-bezier($cubic);
+
+        &:hover {
+            transform: translateX(0.5rem);
+        }
+    }
+
+    &__description {
+        margin-bottom: 10px;
+    }
+}
+
