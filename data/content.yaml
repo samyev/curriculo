@@ -14,14 +14,14 @@ BasicInfo:
     - Icon: fa fa-cat
       Info: github.com/samyev
 
-Profile: Sou uma desenvolvedora iniciante, curso engenharia da computação, no momento estou aprimorando minhas técnincas em linguagens full stack, e iniciando meus estudos em docker. Estou sempre a procura de aprender novas tecnologias, utilizo o sistema operacional linux, e adoro usurfruir de softwares open source.
+Profile: Sou uma desenvolvedora iniciante, curso engenharia da computação, no momento estou aprimorando minhas técnicas em linguagens full stack, como javascript, python e nodejs, também estou iniciando meus estudos em docker e aws. Estou sempre a procura de aprender novas tecnologias, utilizo o sistema operacional linux, e adoro usufruir de softwares open source.
 
 Experience:
   - Employer: Prefeitura de Sobral
     Place: Sobral, CE
     Positions:
       - Title: Técnica em redes de computadores
-        Date: Ago 2018 - Nov 2018
+        Date: Ago 2017 - Nov 2017
         Details:
           - Atuei como técnica em redes na biblioteca municipal  de Sobral,
           - responsável por dar manutenção em computadores e sistemas.
