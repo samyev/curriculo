@@ -19,6 +19,16 @@ BasicInfo:
 Profile: Sou uma desenvolvedora iniciante, curso engenharia da computação, no momento estou aprimorando minhas técnicas em linguagens full stack, como javascript, python e nodejs, também estou iniciando meus estudos em docker e aws. Estou sempre a procura de aprender novas tecnologias, utilizo o sistema operacional linux, e adoro usufruir de softwares open source.
 
 Experience:
+  - Employer: Locus Custom Software
+    Place: Remoto
+    Positions:
+      - Title: Estágio em Desenvolvimento de Software
+        Date: Atual
+        Details:
+          - Atua na implantação e manutenção de sistemas web e mobile, 
+          - utilizando principalmente as tecnologias django e flutter.
+        Badges: ['Django', 'flutter']
+
   - Employer: Prefeitura de Sobral
     Place: Sobral, CE
     Positions:
