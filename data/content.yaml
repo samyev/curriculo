@@ -50,6 +50,15 @@ Education:
     Details: Manutenção de computadores, servidores linux e windows, configuração de roteadores, etc.
 
 Certificacoes:
+  - Place: Udemy
+  - Course: Criação de Apps Android e iOS com flutter (Em Andamento)
+  
+  - Place: Udemy
+  - Course: Desenvolva uma aplicação com Django 2.0 e deploy no Heroku (Em Andamento)
+  
+  - Place: Linux Tips
+  - Course: Descomplicando o Docker (Em Andamento)
+
   - Place: FreeCodeCamp
   - Course: Scientific Computing with Python (2021)
   
@@ -84,6 +93,8 @@ Skills:
   - Family: Programação
     Items:
       - Python (Básico)
+      - Django (Básico)
+      - Flutter (Básico)
       - HTML (Intermediário)
       - Javascript (Básico)
       - CSS (Intermediário)
