@@ -8,7 +8,7 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: samsaleslima@gmail.com
     - Icon: fas fa-globe
-      Info: samyev.me
+      Info: samyev.netlify.app/
     - Icon: fas fa-map-marker-alt
       Info: Brasil
     - Icon: fa fa-cat
@@ -16,7 +16,14 @@ BasicInfo:
     - Icon: fab fa-linkedin
       Info: linkedin.com/in/samylle-sales/
 
-Profile: Sou uma desenvolvedora iniciante, curso engenharia da computação, estagio remotamente como desenvolvedora de software na empresa Locus Custom Software, utilizando as tecnologias django e flutter, também estou iniciando meus estudos em docker e aws. Estou sempre a procura de aprender novas tecnologias, utilizo o sistema operacional linux, e adoro usufruir de softwares open source.
+Profile:
+  Sou desenvolvedora de software, estagio remotamente na empresa Locus Custom Software utilizando as tecnologias web e mobile, 
+  django e flutter, também utilizo docker como tecnologia de containerização. Futuramente pretendo migrar para a área de DevOps, 
+  atualmente estudo docker, ferramentas de ci/cd, e IaC. Para agregar mais aos meus estudos participo da Mentoria IaC, um projeto 
+  iniciado por Rafael Gomex, e também do Mutirão DevOps, iniciado por Jeferson Fernando Vitalino fundador da LinuxTips. 
+        
+  - [Mentoria IaC](https://gomex.me/mentoriaiac/)
+  - [LinuxTips](https://www.linuxtips.io/)
 
 Experience:
   - Employer: Locus Custom Software
@@ -50,15 +57,16 @@ Education:
     Details: Manutenção de computadores, servidores linux e windows, configuração de roteadores, etc.
 
 Certificacoes:
+
+  - Place: Udemy
+  - Course: Descomplicando o Docker (Em Andamento)
+
   - Place: Udemy
   - Course: Criação de Apps Android e iOS com flutter (Em Andamento)
   
   - Place: Udemy
   - Course: Desenvolva uma aplicação com Django 2.0 e deploy no Heroku (Em Andamento)
   
-  - Place: Linux Tips
-  - Course: Descomplicando o Docker (Em Andamento)
-
   - Place: FreeCodeCamp
   - Course: Scientific Computing with Python (2021)
   
@@ -92,31 +100,42 @@ Certificacoes:
 Skills:
   - Family: Programação
     Items:
-      - Python (Básico)
-      - Django (Básico)
-      - Flutter (Básico)
-      - HTML (Intermediário)
-      - Javascript (Básico)
-      - CSS (Intermediário)
-      - SQL (Básico)
-      - C (Básico)
-      - Java (Básico)
-      - Bash (Intermediário)
-      - ZSH (Intermediário)
+      - Python
+      - Flutter
+      - HTML
+      - Javascript
+      - CSS
+      - SQL
+      - Postgres
+      - C
+      - Java
+      - Shell
   - Family: Containerização
     Items:
-      - Docker (Básico)
+      - Docker
+  - Family: Infraestrutura como Código
+    Items:
+      - Terraform
+      - Packer
   - Family: Frameworks
     Items:
-      - NodeJs (Básico)
-  - Family: Ferram. Desenvolvimento
+      - NodeJs
+      - Django
+  - Family: Ferram. Versionamento
     Items:
-      - Git (Intermediário)
-      - Docker (Básico)
-      - AWS (Básico)
+      - Git
+      - GitHub
+  - Family: Ferram. Ci/CD
+    Items:
+      - GitHub Actions
+      - GitLab
+  - Family: Nuvem
+    Items:
+      - AWS
   - Family: Diversos
     Items:
       - LaTeX
+      - Jira
   - Family: Sistemas Operacionais
     Items:
       - Linux
@@ -127,13 +146,12 @@ Languages:
     Level: Native
   - Name: English
     Level: Leitura
-  - Name: Spanish
-    Level: Leitura
 
 Interests:
   - Dança
   - Natureza
   - Livros
   - Animes
+  - Mangás
   - Línguas
   - Música
