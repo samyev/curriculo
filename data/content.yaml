@@ -17,17 +17,23 @@ BasicInfo:
       Info: linkedin.com/in/samylle-sales/
 
 Profile:
-  Sou desenvolvedora de software, estagio remotamente na empresa Locus Custom Software utilizando as tecnologias web e mobile, 
-  django e flutter, também utilizo docker como tecnologia de containerização. Futuramente pretendo migrar para a área de DevOps, 
-  atualmente estudo docker, ferramentas de ci/cd, e IaC. Para agregar mais aos meus estudos participo da Mentoria IaC, um projeto 
-  iniciado por Rafael Gomex, e também do Mutirão DevOps, iniciado por Jeferson Fernando Vitalino fundador da LinuxTips.
+  Atualmente trabalho como DevOps Engineer nível sandy na empresa pagar.me. Estou iniciando na área, e tenho muito o que eprender. Tenho experiência com desenvolvimento
+  web e mobile (ex.: python, django, dart, flutter). Sou granduanda em Engenharia da Computação na Universidade Federal do Ceará. Para agregar mais aos meus estudos participo 
+  da Mentoria IaC, um projeto iniciado por Rafael Gomex, e também do Mutirão DevOps, iniciado por Jeferson Fernando Vitalino fundador da LinuxTips.
 
 Experience:
+  - Employer: Pagar.me
+    Place: Remoto
+    Positions:
+      - Title: DevOps Engineer
+        Date: Atual
+        Badges: ['Azure', 'Terraform', 'Docker']  
+
   - Employer: Locus Custom Software
     Place: Remoto
     Positions:
       - Title: Estágio em Desenvolvimento de Software
-        Date: Atual
+        Date: Mai 2021 - Nov 2021
         Details:
           - Atua na implantação e manutenção de sistemas web e mobile, 
           - utilizando principalmente as tecnologias django e flutter.
